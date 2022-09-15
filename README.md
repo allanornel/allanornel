@@ -1,7 +1,8 @@
 ### Hello World, I'm Allan 👋
 
+- 💼 Software Engineer Jr. at Callidus Tecnologia
 - 💻 Computer Technician
-- 🌱 Future Full Stack Developer
+- 🌱 Full Stack Developer
 - 🎧 I like to listen music on my free time
 - 😄 Pronouns: He/Him
 
