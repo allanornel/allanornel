@@ -1,6 +1,6 @@
 ### Hello World, I'm Allan 👋
 
-- 💼 Software Engineer at Callidus Tecnologia
+- 💼 Software Engineer at Seconds
 - 💻 Computer Technician
 - 🌱 Full Stack Developer
 - 🎧 I like to listen music on my free time
